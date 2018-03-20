@@ -46,11 +46,11 @@ Example usage of your Docker application:
 
 Your challenge results will be evaluated based on the following criteria
 
-- prediction accuracy (for the first part)
-- code cleanliness and documentation
-- level of creativity / ingenuity of your solution
+* prediction accuracy (for the first part)
+* code cleanliness and documentation
+* level of creativity / ingenuity of your solution
 
-## Questions?
+## Questions
 
 Feel free to [email us](mailto:ds@wattx.io) with any questions you might have about the challenge.
 
