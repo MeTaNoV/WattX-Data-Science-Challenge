@@ -1,1010 +1,722 @@
 {
     "0": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 0,
         "device": "device_1",
+        "time": 1472688000000,
         "activated": "False"
     },
     "1": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 0,
         "device": "device_2",
+        "time": 1472688000000,
         "activated": "False"
     },
     "2": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 0,
         "device": "device_3",
+        "time": 1472688000000,
         "activated": "False"
     },
     "3": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 0,
         "device": "device_4",
+        "time": 1472688000000,
         "activated": "False"
     },
     "4": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 0,
         "device": "device_5",
+        "time": 1472688000000,
         "activated": "False"
     },
     "5": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 0,
         "device": "device_6",
+        "time": 1472688000000,
         "activated": "False"
     },
     "6": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 1,
         "device": "device_1",
+        "time": 1472691600000,
         "activated": "False"
     },
     "7": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 1,
         "device": "device_2",
+        "time": 1472691600000,
         "activated": "False"
     },
     "8": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 1,
         "device": "device_3",
+        "time": 1472691600000,
         "activated": "False"
     },
     "9": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 1,
         "device": "device_4",
+        "time": 1472691600000,
         "activated": "False"
     },
     "10": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 1,
         "device": "device_5",
+        "time": 1472691600000,
         "activated": "False"
     },
     "11": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 1,
         "device": "device_6",
+        "time": 1472691600000,
         "activated": "False"
     },
     "12": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 2,
         "device": "device_1",
+        "time": 1472695200000,
         "activated": "False"
     },
     "13": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 2,
         "device": "device_2",
+        "time": 1472695200000,
         "activated": "False"
     },
     "14": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 2,
         "device": "device_3",
+        "time": 1472695200000,
         "activated": "False"
     },
     "15": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 2,
         "device": "device_4",
+        "time": 1472695200000,
         "activated": "False"
     },
     "16": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 2,
         "device": "device_5",
+        "time": 1472695200000,
         "activated": "False"
     },
     "17": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 2,
         "device": "device_6",
+        "time": 1472695200000,
         "activated": "False"
     },
     "18": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 3,
         "device": "device_1",
+        "time": 1472698800000,
         "activated": "False"
     },
     "19": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 3,
         "device": "device_2",
+        "time": 1472698800000,
         "activated": "False"
     },
     "20": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 3,
         "device": "device_3",
+        "time": 1472698800000,
         "activated": "False"
     },
     "21": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 3,
         "device": "device_4",
+        "time": 1472698800000,
         "activated": "False"
     },
     "22": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 3,
         "device": "device_5",
+        "time": 1472698800000,
         "activated": "False"
     },
     "23": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 3,
         "device": "device_6",
+        "time": 1472698800000,
         "activated": "False"
     },
     "24": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 4,
         "device": "device_1",
+        "time": 1472702400000,
         "activated": "False"
     },
     "25": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 4,
         "device": "device_2",
+        "time": 1472702400000,
         "activated": "False"
     },
     "26": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 4,
         "device": "device_3",
+        "time": 1472702400000,
         "activated": "False"
     },
     "27": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 4,
         "device": "device_4",
+        "time": 1472702400000,
         "activated": "False"
     },
     "28": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 4,
         "device": "device_5",
+        "time": 1472702400000,
         "activated": "False"
     },
     "29": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 4,
         "device": "device_6",
+        "time": 1472702400000,
         "activated": "False"
     },
     "30": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 5,
         "device": "device_1",
+        "time": 1472706000000,
         "activated": "False"
     },
     "31": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 5,
         "device": "device_2",
+        "time": 1472706000000,
         "activated": "False"
     },
     "32": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 5,
         "device": "device_3",
+        "time": 1472706000000,
         "activated": "False"
     },
     "33": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 5,
         "device": "device_4",
+        "time": 1472706000000,
         "activated": "False"
     },
     "34": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 5,
         "device": "device_5",
+        "time": 1472706000000,
         "activated": "False"
     },
     "35": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 5,
         "device": "device_6",
+        "time": 1472706000000,
         "activated": "False"
     },
     "36": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 6,
         "device": "device_1",
+        "time": 1472709600000,
         "activated": "False"
     },
     "37": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 6,
         "device": "device_2",
+        "time": 1472709600000,
         "activated": "True"
     },
     "38": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 6,
         "device": "device_3",
+        "time": 1472709600000,
         "activated": "False"
     },
     "39": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 6,
         "device": "device_4",
+        "time": 1472709600000,
         "activated": "False"
     },
     "40": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 6,
         "device": "device_5",
+        "time": 1472709600000,
         "activated": "False"
     },
     "41": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 6,
         "device": "device_6",
+        "time": 1472709600000,
         "activated": "True"
     },
     "42": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 7,
         "device": "device_1",
+        "time": 1472713200000,
         "activated": "False"
     },
     "43": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 7,
         "device": "device_2",
+        "time": 1472713200000,
         "activated": "True"
     },
     "44": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 7,
         "device": "device_3",
+        "time": 1472713200000,
         "activated": "False"
     },
     "45": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 7,
         "device": "device_4",
+        "time": 1472713200000,
         "activated": "True"
     },
     "46": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 7,
         "device": "device_5",
+        "time": 1472713200000,
         "activated": "True"
     },
     "47": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 7,
         "device": "device_6",
+        "time": 1472713200000,
         "activated": "True"
     },
     "48": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 8,
         "device": "device_1",
+        "time": 1472716800000,
         "activated": "True"
     },
     "49": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 8,
         "device": "device_2",
+        "time": 1472716800000,
         "activated": "True"
     },
     "50": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 8,
         "device": "device_3",
+        "time": 1472716800000,
         "activated": "True"
     },
     "51": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 8,
         "device": "device_4",
+        "time": 1472716800000,
         "activated": "True"
     },
     "52": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 8,
         "device": "device_5",
+        "time": 1472716800000,
         "activated": "True"
     },
     "53": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 8,
         "device": "device_6",
+        "time": 1472716800000,
         "activated": "True"
     },
     "54": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 9,
         "device": "device_1",
+        "time": 1472720400000,
         "activated": "True"
     },
     "55": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 9,
         "device": "device_2",
+        "time": 1472720400000,
         "activated": "True"
     },
     "56": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 9,
         "device": "device_3",
+        "time": 1472720400000,
         "activated": "True"
     },
     "57": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 9,
         "device": "device_4",
+        "time": 1472720400000,
         "activated": "True"
     },
     "58": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 9,
         "device": "device_5",
+        "time": 1472720400000,
         "activated": "True"
     },
     "59": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 9,
         "device": "device_6",
+        "time": 1472720400000,
         "activated": "True"
     },
     "60": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 10,
         "device": "device_1",
+        "time": 1472724000000,
         "activated": "True"
     },
     "61": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 10,
         "device": "device_2",
+        "time": 1472724000000,
         "activated": "True"
     },
     "62": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 10,
         "device": "device_3",
+        "time": 1472724000000,
         "activated": "True"
     },
     "63": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 10,
         "device": "device_4",
+        "time": 1472724000000,
         "activated": "True"
     },
     "64": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 10,
         "device": "device_5",
+        "time": 1472724000000,
         "activated": "True"
     },
     "65": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 10,
         "device": "device_6",
+        "time": 1472724000000,
         "activated": "True"
     },
     "66": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 11,
         "device": "device_1",
+        "time": 1472727600000,
         "activated": "True"
     },
     "67": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 11,
         "device": "device_2",
+        "time": 1472727600000,
         "activated": "True"
     },
     "68": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 11,
         "device": "device_3",
+        "time": 1472727600000,
         "activated": "True"
     },
     "69": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 11,
         "device": "device_4",
+        "time": 1472727600000,
         "activated": "True"
     },
     "70": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 11,
         "device": "device_5",
+        "time": 1472727600000,
         "activated": "True"
     },
     "71": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 11,
         "device": "device_6",
+        "time": 1472727600000,
         "activated": "True"
     },
     "72": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 12,
         "device": "device_1",
+        "time": 1472731200000,
         "activated": "True"
     },
     "73": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 12,
         "device": "device_2",
+        "time": 1472731200000,
         "activated": "True"
     },
     "74": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 12,
         "device": "device_3",
+        "time": 1472731200000,
         "activated": "True"
     },
     "75": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 12,
         "device": "device_4",
+        "time": 1472731200000,
         "activated": "True"
     },
     "76": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 12,
         "device": "device_5",
+        "time": 1472731200000,
         "activated": "True"
     },
     "77": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 12,
         "device": "device_6",
+        "time": 1472731200000,
         "activated": "True"
     },
     "78": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 13,
         "device": "device_1",
+        "time": 1472734800000,
         "activated": "True"
     },
     "79": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 13,
         "device": "device_2",
+        "time": 1472734800000,
         "activated": "True"
     },
     "80": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 13,
         "device": "device_3",
+        "time": 1472734800000,
         "activated": "True"
     },
     "81": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 13,
         "device": "device_4",
+        "time": 1472734800000,
         "activated": "True"
     },
     "82": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 13,
         "device": "device_5",
+        "time": 1472734800000,
         "activated": "True"
     },
     "83": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 13,
         "device": "device_6",
+        "time": 1472734800000,
         "activated": "True"
     },
     "84": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 14,
         "device": "device_1",
+        "time": 1472738400000,
         "activated": "True"
     },
     "85": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 14,
         "device": "device_2",
+        "time": 1472738400000,
         "activated": "True"
     },
     "86": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 14,
         "device": "device_3",
+        "time": 1472738400000,
         "activated": "True"
     },
     "87": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 14,
         "device": "device_4",
+        "time": 1472738400000,
         "activated": "True"
     },
     "88": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 14,
         "device": "device_5",
+        "time": 1472738400000,
         "activated": "True"
     },
     "89": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 14,
         "device": "device_6",
+        "time": 1472738400000,
         "activated": "True"
     },
     "90": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 15,
         "device": "device_1",
+        "time": 1472742000000,
         "activated": "True"
     },
     "91": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 15,
         "device": "device_2",
+        "time": 1472742000000,
         "activated": "True"
     },
     "92": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 15,
         "device": "device_3",
+        "time": 1472742000000,
         "activated": "True"
     },
     "93": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 15,
         "device": "device_4",
+        "time": 1472742000000,
         "activated": "True"
     },
     "94": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 15,
         "device": "device_5",
+        "time": 1472742000000,
         "activated": "True"
     },
     "95": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 15,
         "device": "device_6",
+        "time": 1472742000000,
         "activated": "True"
     },
     "96": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 16,
         "device": "device_1",
+        "time": 1472745600000,
         "activated": "True"
     },
     "97": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 16,
         "device": "device_2",
+        "time": 1472745600000,
         "activated": "True"
     },
     "98": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 16,
         "device": "device_3",
+        "time": 1472745600000,
         "activated": "True"
     },
     "99": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 16,
         "device": "device_4",
+        "time": 1472745600000,
         "activated": "True"
     },
     "100": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 16,
         "device": "device_5",
+        "time": 1472745600000,
         "activated": "True"
     },
     "101": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 16,
         "device": "device_6",
+        "time": 1472745600000,
         "activated": "True"
     },
     "102": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 17,
         "device": "device_1",
+        "time": 1472749200000,
         "activated": "False"
     },
     "103": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 17,
         "device": "device_2",
+        "time": 1472749200000,
         "activated": "True"
     },
     "104": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 17,
         "device": "device_3",
+        "time": 1472749200000,
         "activated": "False"
     },
     "105": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 17,
         "device": "device_4",
+        "time": 1472749200000,
         "activated": "True"
     },
     "106": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 17,
         "device": "device_5",
+        "time": 1472749200000,
         "activated": "True"
     },
     "107": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 17,
         "device": "device_6",
+        "time": 1472749200000,
         "activated": "True"
     },
     "108": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 18,
         "device": "device_1",
+        "time": 1472752800000,
         "activated": "False"
     },
     "109": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 18,
         "device": "device_2",
+        "time": 1472752800000,
         "activated": "False"
     },
     "110": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 18,
         "device": "device_3",
+        "time": 1472752800000,
         "activated": "False"
     },
     "111": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 18,
         "device": "device_4",
+        "time": 1472752800000,
         "activated": "False"
     },
     "112": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 18,
         "device": "device_5",
+        "time": 1472752800000,
         "activated": "False"
     },
     "113": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 18,
         "device": "device_6",
+        "time": 1472752800000,
         "activated": "True"
     },
     "114": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 19,
         "device": "device_1",
+        "time": 1472756400000,
         "activated": "False"
     },
     "115": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 19,
         "device": "device_2",
+        "time": 1472756400000,
         "activated": "False"
     },
     "116": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 19,
         "device": "device_3",
+        "time": 1472756400000,
         "activated": "False"
     },
     "117": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 19,
         "device": "device_4",
+        "time": 1472756400000,
         "activated": "False"
     },
     "118": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 19,
         "device": "device_5",
+        "time": 1472756400000,
         "activated": "False"
     },
     "119": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 19,
         "device": "device_6",
+        "time": 1472756400000,
         "activated": "False"
     },
     "120": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 20,
         "device": "device_1",
+        "time": 1472760000000,
         "activated": "False"
     },
     "121": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 20,
         "device": "device_2",
+        "time": 1472760000000,
         "activated": "False"
     },
     "122": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 20,
         "device": "device_3",
+        "time": 1472760000000,
         "activated": "False"
     },
     "123": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 20,
         "device": "device_4",
+        "time": 1472760000000,
         "activated": "False"
     },
     "124": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 20,
         "device": "device_5",
+        "time": 1472760000000,
         "activated": "False"
     },
     "125": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 20,
         "device": "device_6",
+        "time": 1472760000000,
         "activated": "False"
     },
     "126": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 21,
         "device": "device_1",
+        "time": 1472763600000,
         "activated": "False"
     },
     "127": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 21,
         "device": "device_2",
+        "time": 1472763600000,
         "activated": "False"
     },
     "128": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 21,
         "device": "device_3",
+        "time": 1472763600000,
         "activated": "False"
     },
     "129": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 21,
         "device": "device_4",
+        "time": 1472763600000,
         "activated": "False"
     },
     "130": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 21,
         "device": "device_5",
+        "time": 1472763600000,
         "activated": "False"
     },
     "131": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 21,
         "device": "device_6",
+        "time": 1472763600000,
         "activated": "False"
     },
     "132": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 22,
         "device": "device_1",
+        "time": 1472767200000,
         "activated": "False"
     },
     "133": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 22,
         "device": "device_2",
+        "time": 1472767200000,
         "activated": "False"
     },
     "134": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 22,
         "device": "device_3",
+        "time": 1472767200000,
         "activated": "False"
     },
     "135": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 22,
         "device": "device_4",
+        "time": 1472767200000,
         "activated": "False"
     },
     "136": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 22,
         "device": "device_5",
+        "time": 1472767200000,
         "activated": "False"
     },
     "137": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 22,
         "device": "device_6",
+        "time": 1472767200000,
         "activated": "False"
     },
     "138": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 23,
         "device": "device_1",
+        "time": 1472770800000,
         "activated": "False"
     },
     "139": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 23,
         "device": "device_2",
+        "time": 1472770800000,
         "activated": "False"
     },
     "140": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 23,
         "device": "device_3",
+        "time": 1472770800000,
         "activated": "False"
     },
     "141": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 23,
         "device": "device_4",
+        "time": 1472770800000,
         "activated": "False"
     },
     "142": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 23,
         "device": "device_5",
+        "time": 1472770800000,
         "activated": "False"
     },
     "143": {
-        "Day": 1,
-        "DayOfWeek": 3,
-        "Hour": 23,
         "device": "device_6",
+        "time": 1472770800000,
         "activated": "False"
     }
 }

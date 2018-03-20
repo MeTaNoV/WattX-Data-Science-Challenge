@@ -100,6 +100,7 @@ def predict():
         df['Day'] = df['time'].dt.day
         df['DayOfWeek'] = df['time'].dt.dayofweek
         df['Hour'] = df['time'].dt.hour
+        dates = df['time']
         df = df.reindex(columns=feature_names)
         df.to_csv('data/processed/tmp.csv', index=False)
 
@@ -108,8 +109,12 @@ def predict():
         result = [] 
         for prediction in predictions:
             result.append(prediction['classes'][0].decode('utf-8'))
-        
+
+        df['time'] = dates
+        df['time'].astype('str')
         df['activated'] = result
+        df.drop(['Day', 'DayOfWeek', 'Hour'], axis=1, inplace=True)
+        df = df.reindex(columns=['time', 'device', 'activated'])
         df.to_csv('data/processed/pred.csv', index=False)
 
         return df.to_json(orient='index')
