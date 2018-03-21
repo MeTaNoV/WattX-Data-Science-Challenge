@@ -35,7 +35,7 @@ source venv/bin/activate (or source venv/Scripts/activate on windows)
 And install the required package: (choose the proper requirements file w/ or w/o GPU, depending on your HW)
 
 ```bash
-pip install -r requirement-gpu.txt
+pip install -r requirement.txt
 ```
 
 ## Approach
